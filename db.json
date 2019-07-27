@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"pts":{
+"id":1,
+"code":"wpgt",
+"image":"https://i.ibb.co/wQ7csm2/Screenshot-2019-07-27-at-05-38-26.png",
+"issuer":"GAJCCCRIRXAYEU2ATNQAFYH4E2HKLN2LCKM2VPXCTJKIBVTRSOLEGCJZ",
+"limit":"100000000000",
+"name":"WPGT",
+"domain":"blockeq.com",
+"type":"token",
+"specifier":"wpgt"
 }
